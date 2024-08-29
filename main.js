@@ -19,7 +19,7 @@ window.onscroll = function(){
     Menu.classList.remove('active')
 }
 
-/* email.js */
+                /* email.js */
 function sendMail() {
     var params = {
       name: document.getElementById("name").value,
